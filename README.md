@@ -1,6 +1,3 @@
-
-<!--
-**OmarAdelShalaan/OmarAdelShalaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # My-Resume
 ([Omar Adel Shalaan](#omar-adel-shalaan))  ([Education](#Education))  ([Skills](#Skills))  ([Projects](#Projects))  ([Courses](#Courses))  ([Internships](#Internships))  ([Competitions](#Competitions))  ([Languages](#Languages))  ([Websites](#Websites))
 

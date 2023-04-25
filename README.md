@@ -1,4 +1,4 @@
-([Personal Information](#personal_information))  ([Education](#Education))  ([Skills](#Skills))  ([Projects](#Projects))  ([Courses](#Courses))  ([Internships](#Internships))  ([Competitions](#Competitions))  ([Languages](#Languages))  ([Websites](#Websites))
+([Personal Information](#-personal_information))  ([Education](#-Education))  ([Skills](#-Skills))  ([Projects](#-Projects))  ([Courses](#-Courses))  ([Internships](#-Internships))  ([Competitions](#-Competitions))  ([Languages](#-Languages))  ([Websites](#-Websites))
 <h3 align="center">
   Welcome to Omar Adel Shalaan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">

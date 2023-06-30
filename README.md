@@ -6,6 +6,4 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
-### Connect with Me :
-[![linkedin](https://img.shields.io/badge/OmarAdelShalaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)  [![linkedin](https://img.shields.io/badge/OmarAdelShalaan-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/3QLYBRFFBQUBG1)
+[![linkedin](https://img.shields.io/badge/OmarAdelShalaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)  
